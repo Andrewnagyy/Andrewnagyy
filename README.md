@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Andrewnagyy
+- 👀 I’m interested in Android Development 
+- 🌱 I’m currently learning kotlin
